@@ -1,4 +1,4 @@
-NAME = phusion/baseimage
+NAME = ernashil/baseimage
 VERSION = 0.9.17
 
 .PHONY: all build test tag_latest release ssh
