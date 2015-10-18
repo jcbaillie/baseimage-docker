@@ -1,5 +1,5 @@
 NAME = ernashil/baseimage
-VERSION = 0.9.17
+VERSION = latest
 
 .PHONY: all build test tag_latest release ssh
 
